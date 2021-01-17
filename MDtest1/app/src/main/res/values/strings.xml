@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MD test 1</string>
+    <string name="input_pass">\Введите пароль \</string>
+    <string name="search_by">Поиск по</string>
+    <string name="input_">\Введите \</string>
+</resources>

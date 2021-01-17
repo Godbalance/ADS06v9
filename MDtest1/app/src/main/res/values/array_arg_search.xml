@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_arg_search">
+        <item>ЛМ</item>
+        <item>ШК</item>
+        <item>адресу</item>
+        <item>наименованию</item>
+    </string-array>
+</resources>

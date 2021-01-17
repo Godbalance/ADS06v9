@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_pk">
+        <item>Атос</item>
+        <item>Портос</item>
+        <item>Арамис</item>
+        <item>Вадилий</item>
+    </string-array>
+</resources>
