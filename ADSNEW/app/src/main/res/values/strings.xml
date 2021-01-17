@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ADS NEW</string>
+
+    <string name="title_search">Поиск</string>
+    <string name="title_add">Размещение</string>
+    <string name="title_download">Выгрузка</string>
+    <string name="input_pass">\Введите пароль \</string>
+    <string name="search_by">Поиск по</string>
+    <string name="input_">\Введите \</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
